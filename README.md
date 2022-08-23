@@ -131,11 +131,6 @@ reboot
 
 
 
-# INFO Khusus SlowDNS
-• SSH Over DNS (SlowDNS)
-* untuk kecepatan nya di batasi
-* speed download 4 Mbps (Max Speed)
-* Support semua port ssh
 
 ### Fitur Script
 
@@ -150,8 +145,6 @@ reboot
 • OpenVPN Over Websocket (Cloudflare)
 
 • SSLH
-
-• SSH CloudFront Over Websocket (Aws CloudFront Only) [OFF]
 
 • OHP SSH & OHP Dropbear & OHP OpenVPN (OPEN HTTP PUNCHER)
 
@@ -219,7 +212,6 @@ reboot
 
 • Websocket OpenVPN         : 2086
 
-• Squid Proxy               : 3128, 8080 [OFF]
 
 • Badvpn                    : 7100, 7200, 7300
 
@@ -261,37 +253,6 @@ reboot
 
 • Trojan Go                 : 2087
 
-• CloudFront Over Websocket : [OFF]
 
 
- ### Server Information & Other Features
 
-• Timezone                : Asia/Jakarta (GMT +7)
-
-• Fail2Ban                : [ON]
-
-• Dflate                  : [ON]
-
-• IPtables                : [ON]
-
-• Auto-Reboot             : [ON]
-
-• IPv6                    : [OFF]
-
-• Autoreboot On 05.00 GMT +7
-
-• Autoreboot On 00.00 GMT +7
-
-• Autoreboot On 12.00 GMT +7
-
-• Autoreboot On 18.00 GMT +7
-
-• Auto Delete Expired Account
-
-• Full Orders For Various Services
-
-• White Label
-
-• Auto Fix
-
-• Auto Update
