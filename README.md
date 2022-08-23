@@ -20,77 +20,13 @@ Mod By SL
 <p align="center"><img src="https://img.shields.io/badge/Service-SSH_Over_Websocket-success.svg">  <img src="https://img.shields.io/badge/Service-OpenVPN_Over_Websocket-success.svg">  <img src="https://img.shields.io/badge/Service-SSH_Over_DNS-success.svg">  <img src="https://img.shields.io/badge/Service-SSLH-success.svg">  <img src="https://img.shields.io/badge/Service-Stunnel5-success.svg">  <img src= "https://img.shields.io/badge/Service-OHP_Open_Http_Puncher-success.svg">  <img src= "https://img.shields.io/badge/Service-SSTP_VPN-success.svg">  <img src= "https://img.shields.io/badge/Service-L2TP_VPN-success.svg">  <img src= "https://img.shields.io/badge/Service-PPTP_VPN-success.svg">
 <p align="center"><img src="https://img.shields.io/badge/Service-SSH_OpenSSH-success.svg">  <img src="https://img.shields.io/badge/Service-SSH_Dropbear-success.svg">  <img src="https://img.shields.io/badge/Service-BadVPN-success.svg">  <img src="https://img.shields.io/badge/Service-OpenVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Squid3-success.svg">  <img   src="https://img.shields.io/badge/Service-Webmin-success.svg">  <img src="https://img.shields.io/badge/Service-SlowDns-success.svg">  <p align="center"><img src="https://img.shields.io/badge/Service-XRAY-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_Websocket_TLS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_VLESS_VMESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_gRPC_VLESS_VMESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_TROJAN-success.svg">  <p align="center"><img src="https://img.shields.io/badge/Service-SSR-success.svg">  <img src="https://img.shields.io/badge/Service-Trojan_Go-success.svg">  <img src="https://img.shields.io/badge/Service-WireGuard-success.svg">  <img src= "https://img.shields.io/badge/Service-Shadowsocks-success.svg">  
 
-### Script Khusus Xray Multi Port TERBARU
-https://github.com/fisabiliyusri/XRAY-MANTAP
-### Script Khusus Xray Multi Port TERBARU
-
-### Link Grup FB: 
-https://www.facebook.com/groups/1880372362109422/?ref=share
-### Info:
-* HARAP DI BACA & UTAMAKAN MEMBACA
-# INI SCRIPT KHUSUS UNTUK MEMBUAT SERVER VPN
-Buat VPS Fresh atau VPS Baru dan Wajib Menggunakan User: root
-* VPS AKUN ROOT
-* Login VPS User menggunakan user root
-* Cara langsung masuk ke akses root
-
-```html
-sudo su
-```
-Atau
-```html
-sudo -i
-```
-atau
-```html
-su
-```
-
-### Link Video Tutorial Cara Install
-```html
-https://www.facebook.com/100031931503057/posts/628374871570224/?app=fbl
-```
-
-## INFO TAMBAHAN , SILAHKAN DI BACA 
-* MINIMAL RAM 1 GB UNTUK MENGGUNAKAN SCRIPT INI
-* MAAF PROXY SQUID NYA SAYA HAPUS, silahkan edit script ini secara manual
 
 # Khusus Untuk OS
 * • Debian 10 & 9
 atau
 * • Ubuntu 18.04 & 20.04
 * Working For VPS AWS,AZURE,DO
-## Installation 
-## 1.
-<img src="https://img.shields.io/badge/Update%20_&_%20Upgrade-green">
 
-  ```html
-apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
-```
-  
-## 2.0
-<img src="https://img.shields.io/badge/Login_Root%20VPS-green">
-
-* Login ke VPS dan Aktifkan Root Sementara
-
-  
-```html
-sudo su
-cd
-cd
-```
-
-## 2.
-
-  <img src="https://img.shields.io/badge/Buat_Akses_Root%20VPS-green">
-
-* Buat Akses Root Di VPS /Root VPS
-* Untuk Mengizinkan Root Dan Ubah Password Login di VPS Google Cloud Platform, Aws, Dan Lain-lain
-   
-```html
-  wget -qO- -O vpsroot.sh https://raw.githubusercontent.com/fisabiliyusri/Mantap/main/vpsroot.sh && bash vpsroot.sh
-  
-```
   
 ### 3.
 
